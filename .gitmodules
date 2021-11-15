@@ -37,3 +37,6 @@
 [submodule "libraries/SerialFlash"]
 	path = libraries/SerialFlash
 	url = https://github.com/PaulStoffregen/SerialFlash
+[submodule "libraries/SdFat"]
+	path = libraries/SdFat
+	url = https://github.com/PaulStoffregen/SdFat
