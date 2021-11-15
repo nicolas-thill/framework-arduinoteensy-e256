@@ -28,3 +28,9 @@
 [submodule "libraries/Time"]
 	path = libraries/Time
 	url = https://github.com/PaulStoffregen/Time.git
+[submodule "libraries/SD"]
+	path = libraries/SD
+	url = https://github.com/PaulStoffregen/SD
+[submodule "libraries/Wire"]
+	path = libraries/Wire
+	url = https://github.com/PaulStoffregen/Wire
