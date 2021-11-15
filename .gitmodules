@@ -34,3 +34,6 @@
 [submodule "libraries/Wire"]
 	path = libraries/Wire
 	url = https://github.com/PaulStoffregen/Wire
+[submodule "libraries/SerialFlash"]
+	path = libraries/SerialFlash
+	url = https://github.com/PaulStoffregen/SerialFlash
