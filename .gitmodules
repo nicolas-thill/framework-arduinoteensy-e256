@@ -1,0 +1,30 @@
+[submodule "cores"]
+	path = cores
+	url = https://github.com/nicolas-thill/cores-e256.git
+[submodule "libraries/Audio"]
+	path = libraries/Audio
+	url = https://github.com/PaulStoffregen/Audio
+[submodule "libraries/Encoder"]
+	path = libraries/Encoder
+	url = https://github.com/PaulStoffregen/Encoder
+[submodule "libraries/ADC"]
+	path = libraries/ADC
+	url = https://github.com/pedvide/ADC
+[submodule "libraries/Bounce2"]
+	path = libraries/Bounce2
+	url = https://github.com/thomasfredericks/Bounce2
+[submodule "libraries/LittleFS"]
+	path = libraries/LittleFS
+	url = https://github.com/PaulStoffregen/LittleFS
+[submodule "libraries/MIDI"]
+	path = libraries/MIDI
+	url = https://github.com/PaulStoffregen/MIDI
+[submodule "libraries/OSC"]
+	path = libraries/OSC
+	url = https://github.com/CNMAT/OSC
+[submodule "libraries/SPI"]
+	path = libraries/SPI
+	url = https://github.com/PaulStoffregen/SPI
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = https://github.com/PaulStoffregen/Time.git
